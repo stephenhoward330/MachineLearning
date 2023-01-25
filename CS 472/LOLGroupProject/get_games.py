@@ -2,7 +2,7 @@ from riotwatcher import LolWatcher
 from tqdm import tqdm
 
 # global variables
-api_key = 'RGAPI-66b7a1e5-8b26-4c11-921a-9cc59c4fda2e'
+api_key = None
 watcher = LolWatcher(api_key)
 my_region = 'na1'
 
