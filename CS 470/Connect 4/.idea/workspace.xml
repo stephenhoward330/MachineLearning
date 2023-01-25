@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2ddad5b-f7e8-4354-bec3-05543901ef42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2GxGn5DnPR5iBdarYm6FT2GsXXb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RISK Project" />
+  </component>
+  <component name="RunManager" selected="Python.Expectimax (AI v Rando)">
+    <configuration name="AI v AI" type="PythonConfigurationType" factoryName="Python">
+      <module name="Connect 4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="ConnectFour.py" />
+      <option name="PARAMETERS" value="ai ai" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AI v Human" type="PythonConfigurationType" factoryName="Python">
+      <module name="Connect 4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="ConnectFour.py" />
+      <option name="PARAMETERS" value="ai human" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Expectimax (AI v Rando)" type="PythonConfigurationType" factoryName="Python">
+      <module name="Connect 4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="ConnectFour.py" />
+      <option name="PARAMETERS" value="ai random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Human v AI" type="PythonConfigurationType" factoryName="Python">
+      <module name="Connect 4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="ConnectFour.py" />
+      <option name="PARAMETERS" value="human ai" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AI v AI" />
+      <item itemvalue="Python.AI v Human" />
+      <item itemvalue="Python.Expectimax (AI v Rando)" />
+      <item itemvalue="Python.Human v AI" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ddad5b-f7e8-4354-bec3-05543901ef42" name="Default Changelist" comment="" />
+      <created>1667322984192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667322984192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="-162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668105932499">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state x="1920" y="-162" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1668105932499" />
+    <state x="2240" y="-62" key="FileChooserDialogImpl" timestamp="1671038644096">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state x="2240" y="-62" key="FileChooserDialogImpl/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671038644096" />
+    <state width="1059" height="405" key="GridCell.Tab.0.bottom" timestamp="1668109233050">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="405" key="GridCell.Tab.0.bottom/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1668109233050" />
+    <state width="1059" height="405" key="GridCell.Tab.0.center" timestamp="1668109233050">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="405" key="GridCell.Tab.0.center/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1668109233050" />
+    <state width="1059" height="405" key="GridCell.Tab.0.left" timestamp="1668109233050">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="405" key="GridCell.Tab.0.left/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1668109233050" />
+    <state width="1059" height="405" key="GridCell.Tab.0.right" timestamp="1668109233050">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="405" key="GridCell.Tab.0.right/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1668109233050" />
+    <state width="1059" height="680" key="GridCell.Tab.1.bottom" timestamp="1667428130624">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.bottom/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1667428130624" />
+    <state width="1059" height="680" key="GridCell.Tab.1.center" timestamp="1667428130624">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.center/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1667428130624" />
+    <state width="1059" height="680" key="GridCell.Tab.1.left" timestamp="1667428130624">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.left/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1667428130624" />
+    <state width="1059" height="680" key="GridCell.Tab.1.right" timestamp="1667428130624">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.right/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1667428130624" />
+    <state x="2156" y="7" key="com.intellij.ide.util.TipDialog" timestamp="1671038637915">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state x="2156" y="7" key="com.intellij.ide.util.TipDialog/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671038637915" />
+  </component>
+</project>

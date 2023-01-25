@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f82609e-6fa2-42d6-b0f2-d58570c8d70e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GPFajYNnsOIi16jWcP1DTLuNBs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Risk" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.Dom v Atk (no w)">
+    <configuration name="Dom v Atk (no w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 50 ai\dominator_ai.py dominator ai\attacker_ai.py attacker" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dom v Atk (w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 1 -w ai\dominator_ai.py dominator ai\attacker_ai.py attacker" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dom v Dom (no w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 5 ai\dominator_ai.py dom1 ai\dominator_ai.py dom2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dom v Dom (w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 1 -w ai\dominator_ai.py dom1 ai\dominator_ai.py dom2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dom v Test (no w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 50 ai\dominator_ai.py dominator ai\test_ai.py tester" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dom v Test (w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 1 -w ai\dominator_ai.py dominator ai\test_ai.py tester" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test v Atk (no w)" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="play_risk_ai.py" />
+      <option name="PARAMETERS" value="-n 50 ai\test_ai.py tester ai\attacker_ai.py attacker" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="viewer" type="PythonConfigurationType" factoryName="Python">
+      <module name="RISK Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\steph\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="risk_game_viewer.py" />
+      <option name="PARAMETERS" value="logs/RISKGAME_tester_dominator_0_20221214-142817.log" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Dom v Atk (no w)" />
+      <item itemvalue="Python.Dom v Atk (w)" />
+      <item itemvalue="Python.Dom v Dom (no w)" />
+      <item itemvalue="Python.Dom v Dom (w)" />
+      <item itemvalue="Python.Dom v Test (no w)" />
+      <item itemvalue="Python.Dom v Test (w)" />
+      <item itemvalue="Python.Test v Atk (no w)" />
+      <item itemvalue="Python.viewer" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f82609e-6fa2-42d6-b0f2-d58570c8d70e" name="Default Changelist" comment="" />
+      <created>1666282377943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666282377943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="-162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671053319616">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state x="1920" y="-162" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671053319616" />
+    <state x="740" y="272" key="FileChooserDialogImpl" timestamp="1673374676313">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2660" y="272" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1666635643665" />
+    <state x="740" y="272" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1673374676313" />
+    <state x="2336" y="-261" key="FileChooserDialogImpl/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671053620230" />
+    <state width="1059" height="489" key="GridCell.Tab.0.bottom" timestamp="1671056354934">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="489" key="GridCell.Tab.0.bottom/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671056354934" />
+    <state width="1059" height="489" key="GridCell.Tab.0.center" timestamp="1671056354934">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="489" key="GridCell.Tab.0.center/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671056354934" />
+    <state width="1059" height="489" key="GridCell.Tab.0.left" timestamp="1671056354934">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="489" key="GridCell.Tab.0.left/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671056354934" />
+    <state width="1059" height="489" key="GridCell.Tab.0.right" timestamp="1671056354934">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="489" key="GridCell.Tab.0.right/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671056354934" />
+    <state width="1059" height="680" key="GridCell.Tab.1.bottom" timestamp="1670708520993">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.bottom/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1670708520993" />
+    <state width="1059" height="680" key="GridCell.Tab.1.center" timestamp="1670708520993">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.center/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1670708520993" />
+    <state width="1059" height="680" key="GridCell.Tab.1.left" timestamp="1670708520993">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.left/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1670708520993" />
+    <state width="1059" height="680" key="GridCell.Tab.1.right" timestamp="1670708520993">
+      <screen x="1920" y="-754" width="1080" height="1872" />
+    </state>
+    <state width="1059" height="680" key="GridCell.Tab.1.right/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1670708520993" />
+    <state x="656" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1673374631941">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2576" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1666635631423" />
+    <state x="656" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1673374631941" />
+    <state x="2289" y="-135" key="com.intellij.ide.util.TipDialog/1920.-754.1080.1872/0.0.1920.1032@1920.-754.1080.1872" timestamp="1671129342597" />
+  </component>
+</project>
